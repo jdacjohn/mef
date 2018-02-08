@@ -1,0 +1,145 @@
+
+h3 {
+position:absolute;
+top: 125px;
+left: 220px;
+color: #463c3c;
+font-size: 25px;
+font-family: arial;
+font-weight: none;
+}
+
+.locationinfo {
+color: #463c3c;
+font-size: 18px;
+font-family: arial;
+font-weight: bold;
+line-height: 18px;
+width: 500px;
+}
+
+.locationinfo a{
+color: #435eff;
+font-size: 18px;
+}
+
+.locationinfo a:visited{
+color: #435eff;
+font-size: 18px;
+}
+
+.locationinfo a:hover{
+color:black;
+font-size: 18px;
+}
+
+.locationinfo span{
+color: #463c3c;
+font-size: 12px;
+font-weight: bold;
+}
+
+.losangelesforms {
+color: #614ebb;
+font-size: 12px;
+font-family: arial;
+}
+
+.losangelesforms a{
+color: #4d4444;
+font-size: 12px;
+font-family: arial;
+}
+
+.losangelesforms a:visited{
+color: #4d4444;
+font-size: 12px;
+font-family: arial;
+}
+
+.losangelesforms a:hover{
+color: red;
+font-size: 12px;
+font-family: arial;
+}
+
+.ticketinfo {
+color: #463c3c;
+font-size: 12px;
+font-family: arial;
+}
+
+
+
+.locationslinks {
+position:absolute;
+top: 175px;
+left: 235px;
+font-family: Times New Roman;
+font-size: 14px;
+color: blue;
+text-decoration: none;
+}
+
+
+.locationslinks a{
+font-family: Times New Roman;
+font-size: 14px;
+color: blue;
+text-decoration: none;
+}
+
+
+.locationslinks a:visited {
+font-family: Times New Roman;
+font-size: 14px;
+color: blue;
+text-decoration: none;
+}
+
+.locationslinks a:hover {
+font-family: Times New Roman;
+font-size: 14px;
+color: blue;
+text-decoration: none;
+}
+
+.creditcard a{
+color: red;
+font-size: 22px;
+font-family: arial;
+}
+
+.creditcard a:visited{
+color: red;
+font-size: 22px;
+font-family: arial;
+}
+
+.specialnote {
+color:#5d5555;
+font-family: arial;
+font-size: 12px;
+font-weight:bold;
+}
+
+.philyinfo {
+position:absolute;
+top: 520px;
+left: 0px;
+width: 500px;
+}
+
+.losangelesinfo {
+position:absolute;
+top: 200px;
+left: 0px;
+width: 500px;
+}
+
+
+.bottomtext {
+position:absolute;
+top:1000px;
+left: 0px;
+}

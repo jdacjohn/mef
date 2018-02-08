@@ -1,0 +1,65 @@
+.graphic_navigationbar_style_default {
+    background: transparent;
+    border: 1px #000000 none;
+    float: none;
+    margin: 0px;
+    opacity: 1.00;
+}
+a {
+    color: #463b3c;
+    text-decoration: underline;
+}
+a:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+div {
+    overflow: visible;
+}
+img {
+    border: none;
+}
+.InlineBlock {display: inline; }
+.InlineBlock {display: inline-block; }
+.tinyText {
+    font-size: 1px;
+}
+
+.donationstext {
+position: relative;
+top:70px;
+left: 0px;
+color: #463c3c;
+font-size: 12px;
+font-family: arial;
+width: 800px;
+}
+
+.donationstext span{
+font-weight:bold;
+color: #463c3c;
+font-size: 16px;
+font-family: Times New Roman;
+}
+
+.donationstext a{
+font-weight:bold;
+color: red;
+font-size: 12px;
+}
+
+.donationstext a:visited{
+font-weight:bold;
+color: red;
+font-size: 12px;
+}
+
+.donationstext a:hover{
+font-weight:bold;
+color:black;
+font-size: 12px;
+}

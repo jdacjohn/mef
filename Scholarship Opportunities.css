@@ -1,0 +1,58 @@
+.graphic_navigationbar_style_default {
+    background: transparent;
+    border: 1px #000000 none;
+    float: none;
+    margin: 0px;
+    opacity: 1.00;
+}
+a {
+    color: #463b3c;
+    text-decoration: underline;
+}
+a:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+div {
+    overflow: visible;
+}
+img {
+    border: none;
+}
+.InlineBlock {display: inline; }
+.InlineBlock {display: inline-block; }
+.tinyText {
+    font-size: 1px;
+}
+
+
+.scholartextarea {
+position: relative;
+top:100px;
+left: 50px;
+font-family: arial;
+font-size: 12px;
+color:#463c3c;
+width: 550px;
+}
+
+.scholartextarea span{
+font-family: arial;
+font-size: 18px;
+color:#463c3c;
+font-weight: bold;
+}
+
+.qualify{
+font-family: arial;
+font-size: 18px;
+color:blue;
+}
+
+.text {
+width: 600px;
+}

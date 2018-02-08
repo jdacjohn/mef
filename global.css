@@ -1,0 +1,389 @@
+body {
+	background: #f3f2e4;
+	color: #4f4f4f;
+	font-family: arial;
+	font-size: 12px;
+	line-height: 18px;
+	margin: 0;
+	padding: 0;
+}
+
+.bodytext {
+	position: relative;
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	color: #714241;
+}
+
+a:hover {
+color: #36240e;
+}
+
+.letter {
+	display: block;
+	background-color: #714241;
+	width: 500px;
+	color: #f3f2e4;
+	border: 1px solid #36240e; position: relative; left: 30px; top: 10px; padding: 10px;
+}
+
+.newsitem {
+color:#555555;
+font-size: 14px;
+font-family: times;
+width: 600px;		
+}
+
+.newsitem h3{
+color:#abc85b;
+font-size: 14px;
+font-family:arial black;
+text-decoration: underline;		
+}
+
+.newsitem a{
+color:#af7e20;
+font-size: 14px;
+font-family:times;	
+text-decoration: none;	
+}
+
+
+.newsitem a:hover{
+color:#555555;
+font-size: 14px;
+font-family:times;	
+text-decoration: none;	
+}
+
+.newsitem .date{
+color:#7a8f41;
+font-size: 14px;
+font-family:times;	
+text-decoration: none;	
+}
+
+.programservicestext {
+position: relative; 
+top:0px;
+left: 0px; 
+width: 600px;
+
+}
+
+.sidenav {
+		
+		width: 100%;
+		color: black;
+		font-family: Times New Roman;
+		font-size: 12px;
+		}
+		
+	.sidenav a{
+color:black;
+font-size: 12px;
+text-decoration: none;
+}
+
+	.sidenav a:visited{
+color:black;
+font-size: 12px;
+text-decoration: none;
+}
+
+	.sidenav a:hover{
+color:#565656;
+font-size: 12px;
+text-decoration: none;
+}
+
+	.sidenav span{
+color:black;
+font-size: 11px;
+text-decoration: none;
+font-family: arial;
+}
+
+.maincontent {
+position: relative; 
+top:0px;
+left: 150px; 
+width: 550px;
+font-size: 12px;
+
+}
+
+.maincontent span {
+position: relative; 
+top:0px;
+left: 30px; 
+}
+
+.superindent {
+position: relative; 
+top:0px;
+left: 60px; 
+}
+
+#footer {
+	font-size: 11px;
+	color: #36240e;
+	position: relative;
+	top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 900px;
+	text-align: center;
+}
+#topnav {
+		position: relative;
+		top: 0px;
+		left: 0px;
+		width: 700px;
+		text-align:center;
+		height:35px;
+		}
+		
+	#topnav  ul {
+		margin: 0;
+		padding: 0;
+		color: #8f8f8f;
+		list-style-type: none;
+	
+		}
+		
+	#topnav  ul li {
+		float: left;
+		padding: .6em;
+		}
+		
+	#topnav  ul a {
+		padding: .1em;
+		margin: 0;
+		line-height: 1.1em;
+		font-size: 14px;
+		font-family: times;
+		text-align: center;
+		color: #54a5bd;
+		text-decoration: none;
+		font-weight:none;
+		}	
+		
+		
+	#topnav  a:hover {
+		text-decoration: none;
+		color: #3d3d3d;
+		font-weight:none;
+		}
+
+.events {
+	background: #ccde92;
+	display: block;
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.eventsinner {
+	background: #859758;
+	display: block;
+	width: 650px;
+	color: black;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	
+}
+
+.eventsinner span{
+	color: white;
+}
+
+.eventhead {
+	background: #813f41;
+	display: block;
+	width: 700px;
+	height: 45px;
+	color: white;
+	font-size: 22px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+
+}
+
+.eventhead a{
+	color: white;
+	font-size: 11px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	
+}
+
+
+.donationstext {
+position: relative;
+top:0px;
+left: 0px;
+color: #463c3c;
+font-size: 12px;
+font-family: arial;
+width: 800px;
+}
+
+.donationstext span{
+font-weight:bold;
+color: #463c3c;
+font-size: 16px;
+font-family: Times New Roman;
+}
+
+
+
+/* HEADER */
+
+.headerbg {
+	background: url('images/headerbg.jpg') repeat-x top left;
+	width: auto;
+	height: 191px;
+	display: block;
+}
+
+.container_header {
+	margin-left: auto; 	margin-right: auto; width: 1024px; position: relative;
+}
+
+.logo {
+	position: absolute;
+	top: 10px;
+	left: 0;
+}
+
+.headcollage {
+	position: absolute;
+	top: 0;
+	left: 100px;
+	background: url('images/headcollage.png') no-repeat;
+	width: 807px;
+	height: 174px;
+	display: block;
+}
+/* menu styles */
+#jsddm
+{	
+	position: absolute;
+	top: 0; left: 347px;
+	background: url('images/navbg.jpg') no-repeat;
+	display: block; width: 542px; height: 37px;
+	margin: 0px;
+	padding: 0px;
+	}
+
+	#jsddm li
+	{	float: left;
+		list-style: none;
+		font: 12px Tahoma, Arial;
+		position: relative;
+		vertical-align: middle;
+		top: 2px;
+		left: 30px;
+		height: 26px;
+		}
+				
+
+	#jsddm li a
+	{	display: block;
+		padding: 5px 12px;
+		text-decoration: none;
+		background: ;
+		height: 19px;
+		font-size: 12px;
+		color: #f3f2e5;
+		white-space: nowrap;
+		}
+
+
+	#jsddm li a:hover {
+	display: block;
+
+		}
+		
+	
+					
+						#jsddm li.contactnav a{
+							border-right: none;
+						}
+		#jsddm li ul
+		{	margin: 0;
+			padding: 0;
+			position: absolute;
+			top: 0px;
+			left: 0px;
+			visibility: hidden;
+			}
+		
+			#jsddm li ul li
+			{	
+				position: relative;
+				top: 31px;
+				left: 0px;
+				float: left;
+			
+				display: inline;
+				}
+			
+			#jsddm li ul li a	{
+	float: left;
+				width: 150px;
+					border: 1px solid #f3f2e5;
+					background: #9f6260;
+					height: 19px;
+					font-size: 12px;
+					color: #f3f2e5;
+				}
+			
+			#jsddm li ul li a:hover
+			{	background: #f3f2e5;
+				color: #9f6260;
+				}
+
+
+.eventshome {
+	position: relative;
+	top: 0;
+	float: left;
+	width: 300px;
+	padding-left: 15px;
+}
+
+#photos {
+	position: relative;
+	top: 0px;
+	float: left;
+	width: 700px;
+}
+
+.sidebar {
+	position: relative;
+	top: 0;
+	float: left;
+	width: 300px;
+	
+}
+
+
+.scholartextarea {
+	position: relative;
+	top: 0;
+	float: left;
+	width: 600px;
+	padding-right: 20px;
+
+}

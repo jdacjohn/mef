@@ -1,0 +1,1 @@
+<div id="footer"><div style="float: left; width: 1024px; position: relative; top: 10px;">&copy copyright 2010 Mablean Ephriam Foundation. All Rights Reserved. Website by: <a href="http://www.goddessdesignonline.com" target="_blank">Goddess Design</a></div></div>

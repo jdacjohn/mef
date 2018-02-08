@@ -1,0 +1,35 @@
+.newsitem {
+color:#555555;
+font-size: 14px;
+font-family: times;
+width: 600px;		
+}
+
+.newsitem h3{
+color:#abc85b;
+font-size: 14px;
+font-family:arial black;
+text-decoration: underline;		
+}
+
+.newsitem a{
+color:#af7e20;
+font-size: 14px;
+font-family:times;	
+text-decoration: none;	
+}
+
+
+.newsitem a:hover{
+color:#555555;
+font-size: 14px;
+font-family:times;	
+text-decoration: none;	
+}
+
+.newsitem .date{
+color:#7a8f41;
+font-size: 14px;
+font-family:times;	
+text-decoration: none;	
+}

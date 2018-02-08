@@ -1,0 +1,39 @@
+.dvcontentscroll {
+width:700px;
+height:1500px;
+overflow: auto;		
+}
+
+.dvcontent {
+width:650px;	
+}
+
+
+.dvcontent a{
+color:#af7e20;
+font-size: 14px;
+font-family:times;	
+text-decoration: none;	
+}
+
+
+.dvcontent a:hover{
+color:#555555;
+font-size: 14px;
+font-family:times;	
+text-decoration: none;	
+}
+
+.dvcontent span{
+color: #2cb2de;
+}
+
+p.sublinks ul li a{
+color: #2cb2de;	
+}
+
+
+p.sublinks ul li a:hover{
+color: #af7e20;	
+	
+}
